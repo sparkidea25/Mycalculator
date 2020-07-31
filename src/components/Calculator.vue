@@ -102,7 +102,7 @@ export default {
 
 .display {
   grid-column: 1 / 5;
-  background-color: #333;
+  background-color: green;
   color: white;
 }
 
@@ -116,7 +116,7 @@ export default {
 }
 
 .operator {
-  background-color: orange;
+  background-color: blue;
   color: white;
 }
 </style>
